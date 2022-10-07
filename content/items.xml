@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <active name="Card reverser" description="Reverses your card" gfx="card_reverser" maxcharges="6"/>
+</items>
