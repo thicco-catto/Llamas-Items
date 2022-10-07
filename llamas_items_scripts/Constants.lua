@@ -2,7 +2,8 @@ local Constants = {}
 
 --Enums
 Constants.ItemId = {
-    CARD_REVERSER = Isaac.GetItemIdByName("Card reverser")
+    CARD_REVERSER = Isaac.GetItemIdByName("Card reverser"),
+    SPINDOWN_TRINKET = Isaac.GetItemIdByName("Spindown trinket")
 }
 
 --Card Reverser stuff

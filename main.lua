@@ -14,3 +14,4 @@ end
 
 --Items
 loadFile("items/actives/CardReverser", LlamasItemsMod)
+loadFile("items/actives/SpindownTrinket", LlamasItemsMod)

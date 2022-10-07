@@ -1,3 +1,4 @@
 <items gfxroot="gfx/items/" version="1">
-    <active name="Card reverser" description="Reverses your card" gfx="card_reverser" maxcharges="6"/>
+    <active name="Card reverser" description="Reverses your card" gfx="card_reverser.png" maxcharges="6"/>
+    <active name="Spindown trinket" description="One down" gfx="spindown_trinket.png" maxcharges="6"/>
 </items>
