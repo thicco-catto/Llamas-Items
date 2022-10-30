@@ -1,0 +1,6 @@
+<entities anm2root="gfx/" version="5">
+    <entity name="Bible Verse" anm2path="bible_verse.anm2" id="5" variant="300" subtype="231" 
+    collisionMass="3" collisionRadius="12" friction="1" numGridCollisionPoints="24" shadowSize="16">
+            <preload-snd id="8" />
+    </entity>
+</entities>
